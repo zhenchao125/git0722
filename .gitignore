@@ -1,3 +1,5 @@
 *.avi
 *.jpg
 /b.txt
+.idea
+*.iml
