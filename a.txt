@@ -7,3 +7,4 @@ add new color 10000000rmb
 edit by master
 edit by color 
 edit by main
+edit by newer
